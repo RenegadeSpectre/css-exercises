@@ -53,3 +53,11 @@ ul {
   justify-content: space-between;
   padding: 8px;
 }
+
+ul {
+  display: flex;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+}
+
